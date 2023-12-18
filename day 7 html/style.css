@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(250, 245, 198);
+}
+h1 {
+    color: rgb(144, 37, 37);
+}
+h3 {
+    color: rgb(144, 37, 37);
+}
+.img {
+    height: 150px;
+    width: 250px;
+    border-radius: 60px;
+    margin-top: 25px;
+}
+.img_sec{
+    background-color: bisque;
+    border-radius: 40px;
+    height: 200px;
+    text-align: center;
+}
+h3 {
+    color: rgb(144, 37, 37);
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
