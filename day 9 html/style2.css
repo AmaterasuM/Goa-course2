@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(184, 145, 214);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.bla {
+    background-color: #eeeeee;
+    width: 340px;
+    height: 450px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 30px rgb(154, 31, 255),-5px -5px 30px rgb(154, 31, 255);
+}
+
+#h2{
+    position: relative;
+    top: 30px;
+}
+
+.input {
+    width: 200px;
+    height: 30px;
+    position: relative;
+    top: 60px;
+    border-radius: 10px;
+}
+
+.label {
+    position: relative;
+    top: 70px;
+    margin: 5px;
+}
+::placeholder{
+    color: black;
+}
+
+button {
+    position: relative;
+    top: 100px;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(184, 145, 214);
+    color: #eeeeee;
+    font-size: 1.5em;
+}
