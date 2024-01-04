@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(254, 209, 92);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.sec1{
+    background-color: cornsilk;
+    height: 450px;
+    width: 350px;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px rgb(176, 131, 76);
+    box-shadow:-5px -5px -10px rgb(154, 148, 140);
+}
+::placeholder{
+    color: black;
+}
+.info{
+    position: relative;
+    top: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    border-color: crimson;
+    background-color: azure;
+}
+
+h1{
+    position: relative;
+    top: 50px;
+    color: crimson;
+}
+button{
+    position: relative;
+    top: 150px;
+    right: 28px;
+    padding: 10px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: crimson;
+    color: rgb(255, 255, 255);
+}
+a{
+    position: relative;
+    top: 80px;
+    left: 130px;
+    font-size: 15px;
+}
+.check{
+    position: relative;
+    top: 110px;
+    right: 50px;
+}
+label{
+    position: relative;
+    top: 109px;
+    right: 50px;
+    font-size: 15px;
+}
